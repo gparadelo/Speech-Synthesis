@@ -1,0 +1,273 @@
+File type = "ooTextFile"
+Object class = "PitchTier"
+
+xmin = 0 
+xmax = 3.137625 
+points: size = 89 
+points [1]:
+    number = 0.5263125 
+    value = 120.0 
+points [2]:
+    number = 0.7213124999999999 
+    value = 120.0 
+points [3]:
+    number = 0.7363124999999999 
+    value = 120.0 
+points [4]:
+    number = 0.7513124999999999 
+    value = 120.0 
+points [5]:
+    number = 0.7663125 
+    value = 120.0 
+points [6]:
+    number = 0.7813125 
+    value = 120.0 
+points [7]:
+    number = 0.7963125 
+    value = 120.0 
+points [8]:
+    number = 0.8113125 
+    value = 120.0 
+points [9]:
+    number = 0.8263124999999999 
+    value = 120.0 
+points [10]:
+    number = 0.8413124999999999 
+    value = 120.0 
+points [11]:
+    number = 0.8563124999999999 
+    value = 120.0 
+points [12]:
+    number = 0.8713124999999999 
+    value = 120.0 
+points [13]:
+    number = 0.8863125 
+    value = 120.0 
+points [14]:
+    number = 0.9013125 
+    value = 120.0 
+points [15]:
+    number = 0.9163125 
+    value = 120.0 
+points [16]:
+    number = 0.9313124999999999 
+    value = 120.0 
+points [17]:
+    number = 0.9463124999999999 
+    value = 120.0 
+points [18]:
+    number = 0.9613124999999999 
+    value = 120.0 
+points [19]:
+    number = 0.9763124999999999 
+    value = 120.0 
+points [20]:
+    number = 0.9913124999999999 
+    value = 120.0 
+points [21]:
+    number = 1.0063125 
+    value = 120.0 
+points [22]:
+    number = 1.0213125 
+    value = 120.0 
+points [23]:
+    number = 1.0363125 
+    value = 120.0 
+points [24]:
+    number = 1.0513125 
+    value = 120.0 
+points [25]:
+    number = 1.1563125 
+    value = 120.0 
+points [26]:
+    number = 1.1713125 
+    value = 120.0 
+points [27]:
+    number = 1.1863125 
+    value = 120.0 
+points [28]:
+    number = 1.2013125 
+    value = 120.0 
+points [29]:
+    number = 1.2163125000000001 
+    value = 120.0 
+points [30]:
+    number = 1.2313125 
+    value = 120.0 
+points [31]:
+    number = 1.2463125 
+    value = 120.0 
+points [32]:
+    number = 1.2613125 
+    value = 120.0 
+points [33]:
+    number = 1.2763125 
+    value = 120.0 
+points [34]:
+    number = 1.2913125 
+    value = 120.0 
+points [35]:
+    number = 1.3063125 
+    value = 120.0 
+points [36]:
+    number = 1.3963125 
+    value = 120.0 
+points [37]:
+    number = 1.4113125 
+    value = 120.0 
+points [38]:
+    number = 1.5613125 
+    value = 120.0 
+points [39]:
+    number = 1.5763125 
+    value = 120.0 
+points [40]:
+    number = 1.5913125000000001 
+    value = 120.0 
+points [41]:
+    number = 1.6063125 
+    value = 120.0 
+points [42]:
+    number = 1.6213125 
+    value = 120.0 
+points [43]:
+    number = 1.6363125 
+    value = 120.0 
+points [44]:
+    number = 1.6513125 
+    value = 120.0 
+points [45]:
+    number = 1.6663125 
+    value = 120.0 
+points [46]:
+    number = 1.6813125 
+    value = 120.0 
+points [47]:
+    number = 1.6963125000000001 
+    value = 120.0 
+points [48]:
+    number = 1.7113125 
+    value = 120.0 
+points [49]:
+    number = 1.9213125 
+    value = 120.0 
+points [50]:
+    number = 1.9363125 
+    value = 120.0 
+points [51]:
+    number = 1.9513125 
+    value = 120.0 
+points [52]:
+    number = 1.9663125 
+    value = 120.0 
+points [53]:
+    number = 1.9813125 
+    value = 120.0 
+points [54]:
+    number = 1.9963125 
+    value = 120.0 
+points [55]:
+    number = 2.0113125 
+    value = 120.0 
+points [56]:
+    number = 2.1013124999999997 
+    value = 120.0 
+points [57]:
+    number = 2.1163125 
+    value = 120.0 
+points [58]:
+    number = 2.1313125 
+    value = 120.0 
+points [59]:
+    number = 2.1463124999999996 
+    value = 120.0 
+points [60]:
+    number = 2.1613124999999997 
+    value = 120.0 
+points [61]:
+    number = 2.1763125 
+    value = 120.0 
+points [62]:
+    number = 2.1913125 
+    value = 120.0 
+points [63]:
+    number = 2.2063124999999997 
+    value = 120.0 
+points [64]:
+    number = 2.2213125 
+    value = 120.0 
+points [65]:
+    number = 2.3263125 
+    value = 120.0 
+points [66]:
+    number = 2.3413125 
+    value = 120.0 
+points [67]:
+    number = 2.3713124999999997 
+    value = 120.0 
+points [68]:
+    number = 2.3863125 
+    value = 120.0 
+points [69]:
+    number = 2.4013125 
+    value = 120.0 
+points [70]:
+    number = 2.4163124999999996 
+    value = 120.0 
+points [71]:
+    number = 2.4313124999999998 
+    value = 120.0 
+points [72]:
+    number = 2.4463125 
+    value = 120.0 
+points [73]:
+    number = 2.4613124999999996 
+    value = 120.0 
+points [74]:
+    number = 2.4763124999999997 
+    value = 120.0 
+points [75]:
+    number = 2.4913125 
+    value = 120.0 
+points [76]:
+    number = 2.5063125 
+    value = 120.0 
+points [77]:
+    number = 2.5513125 
+    value = 120.0 
+points [78]:
+    number = 2.5663124999999996 
+    value = 120.0 
+points [79]:
+    number = 2.5963125 
+    value = 120.0 
+points [80]:
+    number = 2.6113125 
+    value = 120.0 
+points [81]:
+    number = 2.6263124999999996 
+    value = 120.0 
+points [82]:
+    number = 2.6413124999999997 
+    value = 120.0 
+points [83]:
+    number = 2.6563125 
+    value = 120.0 
+points [84]:
+    number = 2.6713124999999995 
+    value = 120.0 
+points [85]:
+    number = 2.6863124999999997 
+    value = 120.0 
+points [86]:
+    number = 2.7013125 
+    value = 120.0 
+points [87]:
+    number = 2.7163125 
+    value = 120.0 
+points [88]:
+    number = 3.0463124999999995 
+    value = 120.0 
+points [89]:
+    number = 3.0613124999999997 
+    value = 120.0 
