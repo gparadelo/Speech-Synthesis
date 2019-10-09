@@ -4,6 +4,7 @@ Read from file: "//////////ASDadhasf/////AE.WAV"
 selectObject: "Sound la" 
 plusObject: "Sound ja" 
 plusObject: "Sound AE" 
-Concatenate recoverably 
+Concatenate recoverably
 selectObject: "Sound chain"
 Write to WAV file: "/homa/a/TP1/file.wav"
+Save as text file: "/homa/a/TP1/file.wav.TextGrid"
