@@ -12,12 +12,14 @@ Rename... myfile
 Read from file... 'file_PitchTier_in$'
 Rename... myfile
 
-select PitchTier myfile
-To Pitch... 0.02 'min_pitch' 'max_pitch'
-
 select Sound myfile
-plus Pitch myfile
-To Manipulation
+To Manipulation: 0.01, 75, 600
+
+select PitchTier myfile
+plus Manipulation myfile
+Replace pitch tier
+
+select Manipulation myfile
 Get resynthesis (overlap-add)
 Save as WAV file... 'file_wav_out$'
 
