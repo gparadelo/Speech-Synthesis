@@ -55,6 +55,7 @@ def concatenate(filenames, output_name):
         cf.write(script)
 
     run_praat("concatenar.praat", "")
+    os.remove("concatenar.praat")
 
 
 # lista los nombres de los archivos de los difonos para una palabra.
