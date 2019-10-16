@@ -24,11 +24,11 @@ form Save intervals to small WAV sound files
 	boolean Exclude_intervals_labeled_as_xxx 1
 	boolean Exclude_intervals_starting_with_dot_(.) 1
 	comment Give a small margin for the files if you like:
-	positive Margin_(seconds) 0.01
+	positive Margin_(seconds) 0.0001
 	comment Give the folder where to save the sound files:
-	sentence Folder /home/lennes/tmp/
+	sentence Folder /home/aletg/ph-tp1/difonos/
 	comment Give an optional prefix for all filenames:
-	sentence Prefix TMP_
+	sentence Prefix 
 	comment Give an optional suffix for all filenames (.wav will be added anyway):
 	sentence Suffix 
 endform
