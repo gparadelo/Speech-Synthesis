@@ -1,7 +1,8 @@
+#!/usr/bin/env python
+
 import sys
 import os
 from subprocess import Popen, PIPE
-import re
 import numpy as np
 
 PRAAT = '/usr/bin/praat'
@@ -66,7 +67,6 @@ def diphone_list(word):
             print("ERROR: invalid word. Try again.")
             sys.exit(1)
         diphones.append(diphone)
-    print(diphones)
     # agregar prefijo y sufijo
     return diphones
 
@@ -159,7 +159,6 @@ def leer_pitch_track(filename):
 def mergear_y_variar(lista_difonos, output, f):
     aux = aux_folder + "au"
     concatenate(lista_difonos, aux + wav)
-    print(lista_difonos)
     variar_pitch(aux, output, f)
     os.remove(aux + wav)
     os.remove(aux + wav + ".TextGrid")
@@ -218,7 +217,7 @@ def tts(word, output_filename):
 
 def main():
     os.makedirs('./aux/', exist_ok=True)
-    synthesize(sys.argv[1], sys.argv[2])
+    tts(sys.argv[1], sys.argv[2])
 
 
 if __name__ == "__main__":
