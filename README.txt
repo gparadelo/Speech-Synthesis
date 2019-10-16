@@ -13,7 +13,7 @@ Por ejemplo:
 	python tts.py EsemeketrEfe? /tmp/output.wav
 
 
-Para producir prosodia de pregunta en caso de que la palabra de entrada termine en '?', se modifica la frecuencia alrededor de la sílaba acentuada para que sea mas agudo.
+Para producir prosodia de pregunta en caso de que la palabra de entrada termine en '?', se modifica la frecuencia alrededor de la sílaba acentuada y al final de la palabra para que sea mas agudo.
 
 
 Se utilizo Praat 6.1.04
