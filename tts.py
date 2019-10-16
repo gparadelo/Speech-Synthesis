@@ -27,6 +27,7 @@ def synthesize(word, output_filename):
 
 
 def main():
+    os.makedirs('./aux/', exist_ok=True)
     synthesize(sys.argv[1], sys.argv[2])
 
 
